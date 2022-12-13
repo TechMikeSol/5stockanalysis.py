@@ -1,5 +1,8 @@
 ### 5stockanalysis.py
 
+Preface: Standard deviation helps determine market volatility or the spread of asset prices from their average price. When prices move wildly, standard deviation is high, meaning an investment will be risky. Low standard deviation means prices are calm, so investments come with low risk.
+
+Extra resource: https://www.investopedia.com/ask/answers/021915/how-standard-deviation-used-determine-risk.asp
 
 ###  Stock API allows:
 
